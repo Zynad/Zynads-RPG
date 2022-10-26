@@ -1397,7 +1397,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1405,6 +1405,27 @@ TextureImporter:
       bones: []
       spriteID: 7e1a290707ab22b4599390469f042898
       internalID: 1872233195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu_0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11f01c3777a07b4c945ff1eeb5b47b2
+      internalID: -558871975
       vertices: []
       indices: 
       edges: []
@@ -1452,6 +1473,7 @@ TextureImporter:
       torch_4: 1681504886
       weapon_5: 1175941388
       pillar_3: 346414901
+      menu_0: -558871975
       floor_6: 2081748001
       crate_0: 794028956
       wall_9: -815372150
