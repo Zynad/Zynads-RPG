@@ -1199,6 +1199,216 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: chest_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0831c362e5f49f543b890ad621ba35e2
+      internalID: -335198493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest_0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b96ad565a56d548bdd8638eeb8e28d
+      internalID: 1045160785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 225
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89425c4cdefc9294a8c44758c54d72e6
+      internalID: 1927304259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 225
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbfe3ef4c4616e47a00773bed78679c
+      internalID: -85571391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 225
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf22e9ab3373fb4ebc45487a03bb7f5
+      internalID: 362132200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 225
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5169db5ce6f337940a6c3e1bfeb2ede6
+      internalID: -1029888296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 225
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6597c06aeafe09b43b2255780bffbb0a
+      internalID: 1579862423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 193
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471f4ed5aacc81945bb39ca0beb6aee0
+      internalID: 1175941388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 193
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b86f08f2ae7d84fa728e49397424d1
+      internalID: 81912517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1a290707ab22b4599390469f042898
+      internalID: 1872233195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -1211,7 +1421,9 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       pillar_1: -1618015292
+      chest_0: 1045160785
       stairs_0: 1573632620
+      weapon_2: 362132200
       torch_0: -1838342438
       stairs_1: 206260129
       floor_7: 1567499591
@@ -1224,8 +1436,10 @@ TextureImporter:
       floor_4: -269690802
       wall_3: 249044866
       wall_5: 826131100
+      Atlas_1: 640396707
       torch_6: 950556937
       crate_2: -891092069
+      weapon_3: -1029888296
       healingFountain_0: 826999194
       torch_3: 1602566952
       crate_3: -1558579186
@@ -1233,7 +1447,10 @@ TextureImporter:
       floor_2: -654512329
       floor_10: 590304735
       healingFountain_1: -2024451737
+      chest_1: -335198493
+      enemy_0: 1872233195
       torch_4: 1681504886
+      weapon_5: 1175941388
       pillar_3: 346414901
       floor_6: 2081748001
       crate_0: 794028956
@@ -1242,7 +1459,9 @@ TextureImporter:
       torch_1: -2059618534
       floor_0: -1904904911
       player_1: -1311015034
+      weapon_0: 1927304259
       pillar_4: 675374986
+      weapon_1: -85571391
       wall_2: -1449963689
       wall_6: -689677932
       healingFountain_2: 216357899
@@ -1253,6 +1472,7 @@ TextureImporter:
       floor_9: -1883148343
       floor_1: -2039685199
       wall_4: 600928533
+      weapon_4: 1579862423
       floor_12: -385900932
       stairs_2: 1962672959
       floor_3: 582069408
@@ -1260,6 +1480,7 @@ TextureImporter:
       stairs_3: 1924150168
       pillar_0: 1666725947
       wall_7: 572681846
+      weapon_6: 81912517
       crate_1: -1894770095
   spritePackingTag: 
   pSDRemoveMatte: 0
